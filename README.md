@@ -5,7 +5,7 @@ Parce que j'ai pas envie de clone chaque repos blih a la main.
 
 Installe [ezblih](https://github.com/Rikette/ezblih) et Java (si c'est pas déjà fait)
 
-Suit les [instructions là](https://github.com/Rikette/ezblih) pour que ezblih ne demande pas ton mdp.
+Suit les [instructions là](https://github.com/Rikette/ezblih#configuration) pour que ezblih ne demande pas ton mdp.
 
 ## Utilisation
 Télécharge le .jar de mon repo et met le où tu veut que tes repo Blih soient téléchargés.
