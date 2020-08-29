@@ -21,3 +21,11 @@ Par ex
 Osef si y'a des lignes vides dans le txt.
 
 Maintenant tu fait ```java -jar backup_blih.jar``` et tu attend.
+
+## Changelog
+
+
+29/09/2020 -> Ajout d'une barre de progression (woaw) et de logs dans le cas où y'a un problème avec un repo
+
+
+28/09/2020 -> Push initial
