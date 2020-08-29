@@ -14,7 +14,7 @@ Fait toi un fichier list.txt, où tu met la liste des repo que tu veut télécha
 
 Le plus simple est d'aller sur [blih.saumon.io](blih.saumon.io) et de copier coller les noms salement.
 
-Par Ex
+Par ex
 
 ![Blih](https://i.imgur.com/E0omjxf.png)
 
